@@ -1,5 +1,5 @@
 <h1 align="center">HELLO WORLD 🤖 I'm Francesco Papini</h1>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jltwsqwjmncrxym06s8ex7t0q8i54f3vkloljtqr&rid=giphy.gif">
+<img align="right" alt="Coding" width="330" src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jltwsqwjmncrxym06s8ex7t0q8i54f3vkloljtqr&rid=giphy.gif">
 
 - I'm currently an undergraduate engineering student 📚 
 

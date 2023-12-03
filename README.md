@@ -1,4 +1,4 @@
-<h1 align="center">HELLO WORLD 🤖 I'm Francesco Papini</h1>
+<h1 align="center">HELLO WORLD</h1>
 <img align="right" alt="Coding" width="330" src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jltwsqwjmncrxym06s8ex7t0q8i54f3vkloljtqr&rid=giphy.gif">
 
 - I'm currently an undergraduate engineering student 📚 
@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---

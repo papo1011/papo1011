@@ -3,7 +3,7 @@
 
 - I'm currently an undergraduate engineering student 📚 
 
-- I love working on the backend as well as the frontend 💻
+- I love solving problems, especially in some blazingly fast language ⚡️
 
 - I'm learning chess, [challenge me!](https://lichess.org/@/papochess) ♟️
 

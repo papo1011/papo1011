@@ -1,8 +1,6 @@
 <h1 align="center">HELLO WORLD</h1>
 <img align="right" alt="Coding" width="330" src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jltwsqwjmncrxym06s8ex7t0q8i54f3vkloljtqr&rid=giphy.gif">
 
-- I started writing a [blog](https://blog.francescopapini.com/) 📝
-
 - I'm currently a graduate computer engineering student [@polito](https://github.com/polito) 📚 
 
 - I love solving problems, especially in some blazingly fast language ⚡️

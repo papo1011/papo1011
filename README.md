@@ -1,13 +1,12 @@
-<h1 align="center">HELLO WORLD</h1>
-<img align="right" alt="Coding" width="330" src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47jltwsqwjmncrxym06s8ex7t0q8i54f3vkloljtqr&rid=giphy.gif">
+# HELLO WORLD :)
 
-- I'm currently a graduate computer engineering student [@polito](https://github.com/polito) 📚 
+- I'm currently a graduate computer engineering student [@polito](https://github.com/polito)
 
-- I love solving problems, especially in some blazingly fast language ⚡️
+- I love solving problems, especially in some blazingly fast language
 
-- I'm learning chess, [challenge me!](https://lichess.org/@/papochess) ♟️
+- I'm learning chess, [challenge me!](https://lichess.org/@/papochess)
 
-### 🛠 Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
@@ -21,8 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
 
 ### 📈 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=papo1011&theme=github-dark)](https://git.io/streak-stats)
